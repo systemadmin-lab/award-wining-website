@@ -44,6 +44,6 @@ This project replicates the sleek animations, interactions, and modern UI/UX of 
 ---
 
 ## ⭐ Show Your Support
-If you like this project, don’t forget to **star ⭐ the repo** and share your feedback!  
+If you like this project, don’t forget to **star ⭐ the repo** and share your feedback! Thanks to jms ardian and js mastery channel
 
 ---
